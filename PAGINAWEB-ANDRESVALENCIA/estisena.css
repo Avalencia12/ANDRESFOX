@@ -1,0 +1,10 @@
+body{
+    background-image: url(senalogo.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-size: 100px 100px;
+}
+.TITULO{
+    background-color: white;
+    color: green;
+}
